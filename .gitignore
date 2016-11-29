@@ -1,10 +1,9 @@
 # http://www.shanaproject.com/
 /node_modules
 
-# webstorm
+
 .idea
 
-1.md
 unmusic
 # github ignore
 /resource/test
